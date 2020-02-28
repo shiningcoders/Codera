@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962374427028",
+    "firebase_url": "https://codera-sc.firebaseio.com",
+    "project_id": "codera-sc",
+    "storage_bucket": "codera-sc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962374427028:android:7ad7acd230301562992f81",
+        "android_client_info": {
+          "package_name": "com.aj.codera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962374427028-2hqe86cr5i2la1e7nb486h8bbrbopjsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aj.codera",
+            "certificate_hash": "c967907de8b09369607726fc2f16a46a7a8fdc45"
+          }
+        },
+        {
+          "client_id": "962374427028-eqvpsd0e3qe2d98bsamiej2q9ve093da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtJFP4y8afwXYHdCLP7YX33F2t0AfBws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962374427028-eqvpsd0e3qe2d98bsamiej2q9ve093da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

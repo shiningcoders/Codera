@@ -1,16 +1,18 @@
-# codera
+# Codera
 
-A new Flutter project.
+A step to remove price tag from education..
 
-## Getting Started
+## Mission
 
-This project is a starting point for a Flutter application.
+In developing countries students can not afford additional courses and books for studies in other areas. To make the content available to them this app is created. It contains courses, books and softwares from approx. all the domains in Computer Science. 
+Our mission is to make quality and skill full education available for all.
 
-A few resources to get you started if this is your first Flutter project:
+## Technology
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Codera is developed on Flutter framework, by which it can be made available for Android, iOS, Web and Desktops providing native experience.
+Flutter framework is powered by Dart programming language which have capabilities it instantaneously inject code (hot reload) in the app, which make the whole development process easier. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Note]:
+Codera does not respect piracy, it is just a link base that contains links of courses which are already available on the open web and google drive. All the material got directly launched in google drive application, hence we don't even stream on our app.
+
+## DOWNLOAD : https://tiny.cc/codera_app

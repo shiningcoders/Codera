@@ -12,4 +12,5 @@ Our mission is to make quality and skill full education available for all.
 Codera is developed on Flutter framework, by which it can be made available for Android, iOS, Web and Desktops providing native experience.
 Flutter framework is powered by Dart programming language which have capabilities it instantaneously inject code (hot reload) in the app, which make the whole development process easier. 
 
-## [Note] : Codera do not respect piracy, it is just a link base which contains links of courses which are already availble on open web and google drive. All the material got directly launched in google drive application, hence we don't even stream on our app.
+## [Note]:
+Codera does not respect piracy, it is just a link base that contains links of courses which are already available on the open web and google drive. All the material got directly launched in google drive application, hence we don't even stream on our app.

@@ -1,6 +1,6 @@
 # Codera
 
-A step to remove price tag from education..
+A step to remove price tag from education.
 
 ## Mission
 
